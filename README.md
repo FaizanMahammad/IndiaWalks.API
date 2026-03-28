@@ -43,6 +43,9 @@ Serilog.AspNetCore	                                      ||        10.0.0
 Serilog.Sinks.Console	                                    ||        6.1.1
 Serilog.Sinks.File	                                      ||        7.0.0
 
+Microsoft.AspNetCore.Mvc.Versioning		                    ||                                                   -- To Have same path for different Version - Versioning (Auto)
+Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer		        ||                                                   -- To Make Swagger Support Versioning
+
 ****************************************************************************************************************************************************************************
 OTHER INFO/ Project Info:
 <Project Sdk="Microsoft.NET.Sdk.Web">
