@@ -1,0 +1,1 @@
+Sample file, when error will be thrown a new file will be created where it will be reocrded
